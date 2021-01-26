@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on an RTX Engine
+- 🌱 I’m currently learning automatic code generation with deep learning
+
