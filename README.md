@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on an RTX Engine
-- 🌱 I’m currently learning automatic code generation with deep learning
-
+- 💬 I’m currently working on an RTX Engine
+- ⚡ I’m currently learning automatic code generation with deep learning
+- 👯 I’m looking to collaborate on anything!
+- 📫 Shoot me an email at LukeRocheDev@gmail.com
