@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 - 💬 I’m currently working on an RTX Engine
 - ⚡ I’m currently learning automatic code generation with deep learning
-- 👯 I’m looking to collaborate on anything!
+- 👯 I’m looking to collaborate on games or rendering projects
 - 📫 Shoot me an email at LukeRocheDev@gmail.com
