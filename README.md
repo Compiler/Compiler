@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Chinese
 - 💬 I’m currently working on an RTX Engine
 - ⚡ I’m currently researching automatic code generation with deep learning
+- 🌱 I’m currently learning deep learning techniques
 - 📫 Shoot me an email at LukeRocheDev@gmail.com
